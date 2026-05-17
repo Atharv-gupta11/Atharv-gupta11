@@ -15,8 +15,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Atharv-gupta11&color=378ADD&style=flat-square&label=Profile+Views)](https://github.com/Atharv-gupta11)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Atharv-Gupta)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:atharvgupta6027@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE_USERNAME)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/atharv-gupta)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Atharv-Gupta)
 
 </div>
 
