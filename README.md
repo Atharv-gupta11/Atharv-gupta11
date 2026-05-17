@@ -1,8 +1,4 @@
-<div align="center">
 
-![Open to Work](https://img.shields.io/badge/🟢_Status-Open_to_Remote_%26_Freelance-1D9E75?style=for-the-badge)
-
-</div>
 
 <div align="center">
 
