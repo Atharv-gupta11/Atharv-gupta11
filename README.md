@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Atharv Gupta 👋
 
-<!--
-**Atharv-gupta11/Atharv-gupta11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student at SVNIT Surat  
+💻 Full Stack Developer (MERN)  
+🤖 Interested in Machine Learning & AI Systems  
 
-Here are some ideas to get you started:
+## Tech Stack
+- Languages: Java, C++, JavaScript, Python
+- Backend: Node.js, Express.js
+- Frontend: React.js
+- Database: MongoDB, SQL
+- ML/AI: TensorFlow, PyTorch, Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+### 🚀 Sunrise Events
+Event management platform with booking and admin panel.
+
+### 🤖 Crop Disease Detection
+Transfer learning using EfficientNetB0 and ResNet18.
+
+### 📊 Twitter Sentiment Analysis
+NLP-based sentiment classification project.
+
+## Current Focus
+- DSA & Competitive Programming
+- Backend Engineering
+- ML Deployment
+
+## Connect With Me
+- LinkedIn: your-link
+- Email: your-email
