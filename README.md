@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hii+There+!)](https://git.io/typing-svg)
 
-# Hey, I'm Atharv 👋
+# I'm Atharv 👋
 
 AI undergrad at SVNIT building things that actually work — ML pipelines, computer vision systems, full-stack backends. I like turning messy real-world data into clean, deployable solutions.
 
